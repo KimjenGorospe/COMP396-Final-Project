@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 860d42ccedad64844b22f3fc8b05a70b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Player2: {instanceID: 0}
+  - playerClone: {instanceID: 0}
+  - player2Clone: {instanceID: 0}
+  - PlayerSpawn: {instanceID: 0}
+  - Player2Spawn: {instanceID: 0}
+  - BalancedMech: {instanceID: 0}
+  - FastMech: {instanceID: 0}
+  - Player1Label: {instanceID: 0}
+  - Player2Label: {instanceID: 0}
+  - Player1HPLabel: {instanceID: 0}
+  - Player2HPLabel: {instanceID: 0}
+  - GameOverLabel: {instanceID: 0}
+  - RestartLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
