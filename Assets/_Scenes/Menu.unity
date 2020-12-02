@@ -338,7 +338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Shootin' Tootin' Robots
+  m_Text: Grand Destination
 --- !u!222 &687232480
 CanvasRenderer:
   m_ObjectHideFlags: 0
